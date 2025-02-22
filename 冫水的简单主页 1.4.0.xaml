@@ -112,7 +112,7 @@
         Grid.Column="2"/>
 </Grid>
 
-<local:MyCard Title="Minecraft高校联盟" Margin="0,0,0,15" CanSwap="True" IsSwaped="True">
+<local:MyCard Title="Minecraft高校联盟" Margin="0,0,0,15" CanSwap="True" IsSwaped="False">
     <Grid>
         <!-- 背景图片 -->
         <Grid.Background>
@@ -406,7 +406,7 @@
             Logo="https://minegraph.cn/api/v1/assets/preview/images/f3e77e5dc5f797d8c79c247cacbfbb84"
             Title="Egrreta写实材质"
             Info="作者：鱼咕咕" 
-            EventType="打开页面" 
+            EventType="打开网页" 
             EventData="https://minegraph.cn/resourcepacks/59"
             Type="Clickable"
             ToolTip="鱼咕咕最新力作！强！" />
